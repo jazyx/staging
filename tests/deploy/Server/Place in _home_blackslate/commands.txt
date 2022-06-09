@@ -1,0 +1,23 @@
+sudo chown meteor:www-data package.tar.gz
+sudo mv package.tar.gz /var/www/jazyx/staging/
+cd /var/www/jazyx/staging/
+ls -al
+
+sudo mv bundle bundle.0015
+sudo tar xzf package.tar.gz
+
+sudo -u meteor -H bash -l
+
+cd bundle/programs/server
+npm install --production > /dev/null 2>&1
+exit
+
+sudo rm package.tar.gz
+ls -al
+
+mongo --eval "load('mongo.js')"
+
+sudo nginx -t
+sudo service nginx restart
+
+
