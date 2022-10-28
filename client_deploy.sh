@@ -1,0 +1,1 @@
+tests/deploy/Client/Place_in_root_directory_on_client/client_deploy.sh

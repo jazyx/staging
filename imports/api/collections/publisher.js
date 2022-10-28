@@ -24,7 +24,7 @@ if (Meteor.isServer) {
     // the named collection. The subscription may be made directly or
     // through the /imports/api/methods/mint.js script
 
-    Meteor.publish(name, function public(caller, ...more) {
+    Meteor.publish(name, function publish(caller, ...more) {
       // We need to use the classic function () syntax so that we can
       // use this to access the Meteor connection and use this.user_id
 

@@ -9,7 +9,7 @@ import { IMAGE_REGEX } from './constants'
 
 
 
-const GOLDEN_ANGLE = 180 * (3 - Math.sqrt(5))
+const GOLDEN_ANGLE = 180 * (3 - Math.sqrt(5)) // 137.50776405003785
 const RATIO        = 14221/512 // stretches 360 to 9999.140
 
 

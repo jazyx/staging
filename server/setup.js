@@ -3,6 +3,9 @@
  */
 
 
+import SimpleSchema from 'simpl-schema'
+
+
 import MethodMinter from './minters/methods'
 import ActivityMinter from './minters/activities'
 import CollectionMinter from './minters/collections'

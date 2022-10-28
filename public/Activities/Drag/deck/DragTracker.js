@@ -52,6 +52,9 @@ export class DragTracker extends Tracker {
     let completed = 0
     const data = props.data
 
+    // console.log("data in Vocabulary tracker:", data);
+ 
+
     if (typeof data === "object") {
       const show = data.show
 
