@@ -1,1 +1,0 @@
-tests/deploy/Server/Place_in__home_blackslate/server_deploy.sh
