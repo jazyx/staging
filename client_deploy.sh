@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-echo "Executing $0 in $(PWD)"
+echo "Executing $0 in $(pwd)"
 
 ### <<< HARD-CODED
 sudoer=blackslate
 server='94.76.206.212'
-server_script='dev_deploy.sh'
+server_script='staging_deploy.sh'
 ### HARD-CODED >>>
 
 remote=$sudoer@$server
@@ -17,7 +17,7 @@ echo "Upload the package to ${remote}:~ and log in"
 
 scp package.tar.gz $remote:~
 
-echo "Upload ${server_script} to ${remote}"
-scp ${server_script} $remote:~
+# echo "Upload ${server_script} to ${remote}"
+# scp ${server_script} $remote:~
 
 ssh $remote
