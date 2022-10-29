@@ -152,7 +152,7 @@ export const StyledPhrase = styled.p`
 
   box-sizing: border-box;
   padding: 0 0.5em;
-  width: calc(100 * var(--w) - 20 * var(--min));
+  // width: calc(100 * var(--w) - 20 * var(--min));
   margin: 0;
 `
 
@@ -166,9 +166,10 @@ export const StyledInputSpan = styled.span`
 `
 
 
-// The text input element will expand to fill its parent div, which
-// will in turn expand to fit the width of the expected span (at a
-// minimum), or the Feedback span (whichever is greater).
+// The text input element will expand to fill its parent div,
+// which will in turn expand to fit the width of the expected
+// span (at a minimum), or the Feedback span (whichever is
+// greater).
 export const StyledInput = styled.input.attrs(props => {
   return {
     type: "text"
@@ -235,9 +236,9 @@ export const StyledInput = styled.input.attrs(props => {
    }
 `
 
-// The feedback span will show the same text as the input element,
-// but divided into different spans according to the error type
-// of a particular group of letters.
+// The feedback span will show the same text as the input
+// element, but divided into different spans according to
+// the error type of a particular group of letters.
 export const StyledFeedback = styled.span`
   position: absolute;
   top: 0;
@@ -289,9 +290,9 @@ export const StyledAdd = styled.span`
   }
 `
 
-// Cut, Fix and Flip show respectively groups of letters which are
-// not needed, not the right characters, or a pair of characters in
-// the wrong order.
+// Cut, Fix and Flip show respectively groups of letters which
+// are not needed, not the right characters, or a pair of
+// characters in the wrong order.
 export const StyledCut = styled.span`
   display:inline-block;
   color: ${colors.cut};

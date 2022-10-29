@@ -1,0 +1,887 @@
+{
+	"set": {
+		"tag": "transport",
+		"name": {
+			"en": "Transport",
+			"fr": "Transport",
+			"ru": "Транспорт"
+		},
+		"description": {
+			"en": "Getting around on land, on water and in the air",
+			"fr": "Se déplacer par terre, sur l'eau et dans les airs",
+			"ru": "Двигайтесь по земле, по воде и по воздуху"
+		},
+		"icon": {
+			"src": "/Assets/Vocabulary/transport/icon.jpg"
+		},
+		"parent": "/Vocabulary",
+		"path": "/Vocabulary/transport",
+		"_id": "xJECEHrCWsvcHAnhc"
+	},
+	"phrases": [
+		{
+			"name": "raft",
+			"phrase": {
+				"en": "raft",
+				"fr": "radeau",
+				"ru": "плот"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/raft.jpg",
+					"size": 107666
+				}
+			],
+			"_id": "tQCb3wiN84FtvyotT"
+		},
+		{
+			"name": "airliner",
+			"phrase": {
+				"en": "airliner",
+				"fr": "avion",
+				"ru": "самолет"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/airliner.jpg",
+					"size": 65679
+				}
+			],
+			"_id": "xwqqMLRQiiJFCvQkp"
+		},
+		{
+			"name": "bicycle",
+			"phrase": {
+				"en": "bicycle",
+				"fr": "vélo",
+				"ru": "велосипед"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/bicycle.jpg",
+					"size": 61098
+				}
+			],
+			"_id": "EJd7RuJAMfd8tQm47"
+		},
+		{
+			"name": "biplane",
+			"phrase": {
+				"en": "biplane",
+				"fr": "biplan",
+				"ru": "биплан"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/biplane.jpg",
+					"size": 93949
+				}
+			],
+			"_id": "547d9bBmHwJXHWjKH"
+		},
+		{
+			"name": "BMX",
+			"phrase": {
+				"en": "BMX",
+				"fr": "BMX",
+				"ru": "BMX"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/BMX.jpg",
+					"size": 90346
+				}
+			],
+			"_id": "xEJ5jdbGLnBrccqsR"
+		},
+		{
+			"name": "canoe",
+			"phrase": {
+				"en": "canoe",
+				"fr": "canoë",
+				"ru": "каноэ"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/canoe.jpg",
+					"size": 93925
+				}
+			],
+			"_id": "pf965gnvtJ7LmZnxu"
+		},
+		{
+			"name": "car",
+			"phrase": {
+				"en": "car",
+				"fr": "voiture",
+				"ru": "авто"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/car.jpg",
+					"size": 104489
+				}
+			],
+			"_id": "LfSKqP9z8Z8CXrBca"
+		},
+		{
+			"name": "skilift",
+			"phrase": {
+				"en": "ski lift",
+				"fr": "remontées mécaniques",
+				"ru": "лыжный подъемник"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/skilift.jpg",
+					"size": 91912
+				}
+			],
+			"_id": "TCKT9ujo2EgQH7ihw"
+		},
+		{
+			"name": "cargo_ship",
+			"phrase": {
+				"en": "cargo ship",
+				"fr": "cargo",
+				"ru": "грузовое судно"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/cargo_ship.jpg",
+					"size": 93126
+				}
+			],
+			"_id": "MQW7zkuxZeWZXMr4g"
+		},
+		{
+			"name": "carriage",
+			"phrase": {
+				"en": "carriage",
+				"fr": "carosse",
+				"ru": "перевозка"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/carriage.jpg",
+					"size": 106105
+				}
+			],
+			"_id": "MhB8n6D5sJSiyqWTb"
+		},
+		{
+			"name": "crane",
+			"phrase": {
+				"en": "crane",
+				"fr": "grue",
+				"ru": "кран"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/crane.jpg",
+					"size": 93918
+				}
+			],
+			"_id": "a6kd53DeY5qbhAtdW"
+		},
+		{
+			"name": "cruise_ship",
+			"phrase": {
+				"en": "cruise ship",
+				"fr": "bateau de croisière",
+				"ru": "круизное судно"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/cruise_ship.jpg",
+					"size": 90995
+				}
+			],
+			"_id": "TLw9AC3AKfdKM7qAg"
+		},
+		{
+			"name": "digger",
+			"phrase": {
+				"en": "digger",
+				"fr": "pelle mecanique",
+				"ru": "экскаватор"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/digger.jpg",
+					"size": 97644
+				}
+			],
+			"_id": "zYtxq9joheLcvjWZm"
+		},
+		{
+			"name": "double-decker_bus",
+			"phrase": {
+				"en": "double-decker bus",
+				"fr": "autobus à impériale",
+				"ru": "двухэтажный автобус"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/double-decker_bus.jpg",
+					"size": 161656
+				}
+			],
+			"_id": "zEiq74GCAzdk9fF7E"
+		},
+		{
+			"name": "electric_scooter",
+			"phrase": {
+				"en": "electric scooter",
+				"fr": "scooter électrique",
+				"ru": "электроскутер"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/electric_scooter.jpg",
+					"size": 92317
+				}
+			],
+			"_id": "2FopjzYJEH4QDJFvB"
+		},
+		{
+			"name": "electric_train",
+			"phrase": {
+				"en": "electric train",
+				"fr": "train électrique",
+				"ru": "электричка"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/electric_train.jpg",
+					"size": 108008
+				}
+			],
+			"_id": "3uooNuL2Ho9dXjis7"
+		},
+		{
+			"name": "fighter_jet",
+			"phrase": {
+				"en": "fighter jet",
+				"fr": "avion de chasse",
+				"ru": "истребитель"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/fighter_jet.jpg",
+					"size": 60337
+				}
+			],
+			"_id": "Eqd9boLbJbRNTc3uv"
+		},
+		{
+			"name": "fire_engine",
+			"phrase": {
+				"en": "fire engine",
+				"fr": "camion de pompier",
+				"ru": "пожарная машина"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/fire_engine.jpg",
+					"size": 105113
+				}
+			],
+			"_id": "TRf5RNryo3AnBFQXW"
+		},
+		{
+			"name": "forklift",
+			"phrase": {
+				"en": "forklift",
+				"fr": "chariot élévateur",
+				"ru": "вилочный погрузчик"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/forklift.jpg",
+					"size": 95004
+				}
+			],
+			"_id": "Nj6QankhNtwgAPhcH"
+		},
+		{
+			"name": "glider",
+			"phrase": {
+				"en": "glider",
+				"fr": "planeur",
+				"ru": "планер"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/glider.jpg",
+					"size": 49641
+				}
+			],
+			"_id": "ehRkGestSjGgb4KZw"
+		},
+		{
+			"name": "hangglider",
+			"phrase": {
+				"en": "hang glider",
+				"fr": "deltaplane",
+				"ru": "дельтаплан"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/hangglider.jpg",
+					"size": 80715
+				}
+			],
+			"_id": "np9NdTrs2Gf5PauyQ"
+		},
+		{
+			"name": "helicopter",
+			"phrase": {
+				"en": "helicopter",
+				"fr": "hélicoptère",
+				"ru": "вертолёт"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/helicopter.jpg",
+					"size": 85329
+				}
+			],
+			"_id": "u3Kdx82TC3m5iBWhp"
+		},
+		{
+			"name": "pushchair",
+			"phrase": {
+				"en": "pushchair",
+				"fr": "poussette",
+				"ru": "коляска"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/pushchair.jpg",
+					"size": 92289
+				}
+			],
+			"_id": "agH3E4HLTGfDnP4TN"
+		},
+		{
+			"name": "hovercraft",
+			"phrase": {
+				"en": "hovercraft",
+				"fr": "aéroglisseur",
+				"ru": "судно на воздушной подушке"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/hovercraft.jpg",
+					"size": 83246
+				}
+			],
+			"_id": "a3RduHgPNjjswqnmx"
+		},
+		{
+			"name": "kayak",
+			"phrase": {
+				"en": "kayak",
+				"fr": "kayak",
+				"ru": "каяк"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/kayak.jpg",
+					"size": 90981
+				}
+			],
+			"_id": "cDd4L6kRZggcxv7vw"
+		},
+		{
+			"name": "longboard",
+			"phrase": {
+				"en": "longboard",
+				"fr": "longboard",
+				"ru": "лонгборд"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/longboard.jpg",
+					"size": 92822
+				}
+			],
+			"_id": "HpiLcT3YCCcieQHkJ"
+		},
+		{
+			"name": "wheelchair",
+			"phrase": {
+				"en": "wheelchair",
+				"fr": "longboard",
+				"ru": "инвалидное кресло"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/wheelchair.jpg",
+					"size": 92580
+				}
+			],
+			"_id": "JF6ngN4eM5CBhKHyp"
+		},
+		{
+			"name": "motor_scooter",
+			"phrase": {
+				"en": "motor scooter",
+				"fr": "scooter",
+				"ru": "скутер"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/motor_scooter.jpg",
+					"size": 104651
+				}
+			],
+			"_id": "LJ3Yo5esYqgGHjqWc"
+		},
+		{
+			"name": "motorcycle",
+			"phrase": {
+				"en": "motorcycle",
+				"fr": "moto",
+				"ru": "мотоцикл"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/motorcycle.jpg",
+					"size": 92502
+				}
+			],
+			"_id": "xWFwB8XaRz4EGS4oB"
+		},
+		{
+			"name": "paraglider",
+			"phrase": {
+				"en": "paraglider",
+				"fr": "parapente",
+				"ru": "параплан"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/paraglider.jpg",
+					"size": 60260
+				}
+			],
+			"_id": "qwa5Q77a7CkXeiRSb"
+		},
+		{
+			"name": "pedal_boat",
+			"phrase": {
+				"en": "pedal boat",
+				"fr": "parapente",
+				"ru": "водный велосипед"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/pedal_boat.jpg",
+					"size": 94615
+				}
+			],
+			"_id": "RZraQS3BwxpJeAwTc"
+		},
+		{
+			"name": "push_scooter",
+			"phrase": {
+				"en": "push scooter",
+				"fr": "trottinette",
+				"ru": "самокат"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/push_scooter.jpg",
+					"size": 92446
+				}
+			],
+			"_id": "ZNMYgTjHDDtntyjT6"
+		},
+		{
+			"name": "road_roller",
+			"phrase": {
+				"en": "road roller",
+				"fr": "compacteur routier",
+				"ru": "дорожный каток"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/road_roller.jpg",
+					"size": 104424
+				}
+			],
+			"_id": "ynxAw8cGW9bavbsZf"
+		},
+		{
+			"name": "rollerblades",
+			"phrase": {
+				"en": "rollerblades",
+				"fr": "rollers",
+				"ru": "ролики"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/rollerblades.jpg",
+					"size": 101829
+				}
+			],
+			"_id": "k8TTPg9ENHjfi4hR3"
+		},
+		{
+			"name": "rowing_boat",
+			"phrase": {
+				"en": "rowing boat",
+				"fr": "canot",
+				"ru": "гребная лодка"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/rowing_boat.jpg",
+					"size": 92686
+				}
+			],
+			"_id": "DGPdkDhBXP5SdqSoc"
+		},
+		{
+			"name": "skateboard",
+			"phrase": {
+				"en": "skateboard",
+				"fr": "planche à roulette",
+				"ru": "скейтборд"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/skateboard.jpg",
+					"size": 113603
+				}
+			],
+			"_id": "sh3azmtteGvGiaarQ"
+		},
+		{
+			"name": "skis",
+			"phrase": {
+				"en": "skis",
+				"fr": "skis",
+				"ru": "лыжи"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/skis.jpg",
+					"size": 92515
+				}
+			],
+			"_id": "Zo2EaMMpBZQp6XFBa"
+		},
+		{
+			"name": "speedboat",
+			"phrase": {
+				"en": "speedboat",
+				"fr": "vedette",
+				"ru": "катер"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/speedboat.jpg",
+					"size": 169296
+				}
+			],
+			"_id": "Yx9tp3KCyv2gaw9Pf"
+		},
+		{
+			"name": "steam_train",
+			"phrase": {
+				"en": "steam train",
+				"fr": "train à vapeur",
+				"ru": "паровоз"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/steam_train.jpg",
+					"size": 105118
+				}
+			],
+			"_id": "2A6AbAgxymqiw5r6A"
+		},
+		{
+			"name": "taxi",
+			"phrase": {
+				"en": "taxi",
+				"fr": "taxi",
+				"ru": "такси"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/taxi.jpg",
+					"size": 105091
+				}
+			],
+			"_id": "sawtEPRwWR6iH9Pbu"
+		},
+		{
+			"name": "tractor",
+			"phrase": {
+				"en": "tractor",
+				"fr": "tracteur",
+				"ru": "трактор"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/tractor.jpg",
+					"size": 93977
+				}
+			],
+			"_id": "G42tmkJr2L2GXFLTs"
+		},
+		{
+			"name": "tram",
+			"phrase": {
+				"en": "tram",
+				"fr": "tramway",
+				"ru": "трамвай"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/tram.jpg",
+					"size": 109498
+				}
+			],
+			"_id": "5wC676HuiLamD4tus"
+		},
+		{
+			"name": "tricycle",
+			"phrase": {
+				"en": "tricycle",
+				"fr": "tricycle",
+				"ru": "трехколесный велосипед"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/tricycle.jpg",
+					"size": 94083
+				}
+			],
+			"_id": "XthjxXGfX4gFXnvnb"
+		},
+		{
+			"name": "truck",
+			"phrase": {
+				"en": "truck",
+				"fr": "camion",
+				"ru": "грузовик"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/truck.jpg",
+					"size": 105528
+				}
+			],
+			"_id": "PHaRuifjHtZvWmd34"
+		},
+		{
+			"name": "unicycle",
+			"phrase": {
+				"en": "unicycle",
+				"fr": "monocycle",
+				"ru": "одноколесный велосипед"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/unicycle.jpg",
+					"size": 93491
+				}
+			],
+			"_id": "tSayLB53iJcraq33m"
+		},
+		{
+			"name": "windsurf",
+			"phrase": {
+				"en": "windsurf",
+				"fr": "planche à voile",
+				"ru": "виндсерфинг"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/windsurf.jpg",
+					"size": 92977
+				}
+			],
+			"_id": "qmLRFPQKZPTFRh2qC"
+		},
+		{
+			"name": "yacht",
+			"phrase": {
+				"en": "yacht",
+				"fr": "yacht",
+				"ru": "яхта"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/yacht.jpg",
+					"size": 66419
+				}
+			],
+			"_id": "pqrAgrwrqRT7Qh9cz"
+		},
+		{
+			"name": "pram",
+			"phrase": {
+				"en": "pram",
+				"fr": "landau",
+				"ru": "коляска"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/pram.jpg",
+					"size": 94705
+				}
+			],
+			"_id": "NnkTMy4JkG2TwsC9X"
+		}
+	]
+}

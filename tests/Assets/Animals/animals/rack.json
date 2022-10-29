@@ -1,0 +1,1178 @@
+{
+	"set": {
+		"tag": "animals",
+		"name": {
+			"en": "Animals",
+			"fr": "Animaux",
+			"ru": "Животные"
+		},
+		"description": {
+			"en": "Mammals, birds, fish and insects",
+			"fr": "Mammiféres, oiseaux, poissons et insectes",
+			"ru": "Млекопитающие, птицы, рыбы и насекомые"
+		},
+		"icon": {
+			"src": "/Assets/Vocabulary/animals/icon.jpg"
+		},
+		"parent": "/Vocabulary",
+		"path": "/Vocabulary/animals",
+	},
+	"phrases": [
+		{
+			"name": "alligator",
+			"phrase": {
+				"en": "alligator",
+				"fr": "alligator",
+				"ru": "аллигатор"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/alligator.jpg",
+				}
+			],
+		},
+		{
+			"name": "badger",
+			"phrase": {
+				"en": "badger",
+				"fr": "blaireau",
+				"ru": "барсук"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/badger.jpg",
+				}
+			],
+		},
+		{
+			"name": "bat",
+			"phrase": {
+				"en": "bat",
+				"fr": "chauve-souris",
+				"ru": "летучая мышь"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/badger.jpg",
+				}
+			],
+		},
+		{
+			"name": "beaver",
+			"phrase": {
+				"en": "beaver",
+				"fr": "castor",
+				"ru": "бобр"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/badger.jpg",
+				}
+			],
+		},
+		{
+			"name": "bee",
+			"phrase": {
+				"en": "bee",
+				"fr": "abeille",
+				"ru": "пчела"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/bee.jpg",
+				}
+			],
+		},
+		{
+			"name": "beetle",
+			"phrase": {
+				"en": "beetle",
+				"fr": "scarabée",
+				"ru": "жук"
+			},
+			"tags": [
+				"animal",
+                "insect"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/beetle.jpg",
+				}
+			],
+		},
+		{
+			"name": "bluebottle",
+			"phrase": {
+				"en": "fly",
+				"fr": "mouche",
+				"ru": "мушка"
+			},
+			"tags": [
+				"animal",
+                "insect"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/bluebottle.jpg",
+				}
+			],
+		},
+		{
+			"name": "brimstone",
+			"phrase": {
+				"en": "butterfly",
+				"fr": "papillon",
+				"ru": "бабочка"
+			},
+			"tags": [
+				"animal",
+                "insect"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/brimstone.jpg",
+				}
+			],
+		},
+		{
+			"name": "brown_bear",
+			"phrase": {
+				"en": "brown bear",
+				"fr": "ours",
+				"ru": "медведь"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/brown_bear.jpg",
+				}
+			],
+		},
+		{
+			"name": "bumblebee",
+			"phrase": {
+				"en": "bumblebee",
+				"fr": "bourdon",
+				"ru": "шмель"
+			},
+			"tags": [
+				"animal",
+                "insect"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/bumblebee.jpg",
+				}
+			],
+		},
+		{
+			"name": "chameleon",
+			"phrase": {
+				"en": "chameleon",
+				"fr": "chameléon",
+				"ru": "хамелеон"
+			},
+			"tags": [
+				"animal",
+                "reptile"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/chameleon.jpg",
+				}
+			],
+		},
+		{
+			"name": "cheetah",
+			"phrase": {
+				"en": "cheetah",
+				"fr": "guépard",
+				"ru": "гепард"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/cheetah.jpg",
+				}
+			],
+		},
+		{
+			"name": "cobra",
+			"phrase": {
+				"en": "cobra",
+				"fr": "cobra",
+				"ru": "кобра"
+			},
+			"tags": [
+				"animal",
+                "reptile"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/cobra.jpg",
+				}
+			],
+		},
+		{
+			"name": "coyote",
+			"phrase": {
+				"en": "coyote",
+				"fr": "coyote",
+				"ru": "койот"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/coyote.jpg",
+				}
+			],
+		},
+		{
+			"name": "crab",
+			"phrase": {
+				"en": "crab",
+				"fr": "crabe",
+				"ru": "краб"
+			},
+			"tags": [
+				"animal",
+                "crustacean"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/crab.jpg",
+				}
+			],
+		},
+		{
+			"name": "crocodile",
+			"phrase": {
+				"en": "crocodile",
+				"fr": "crocodile",
+				"ru": "крокодил"
+			},
+			"tags": [
+				"animal",
+                "reptile"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/crocodile.jpg",
+				}
+			],
+		},
+		{
+			"name": "dolphin",
+			"phrase": {
+				"en": "dolphin",
+				"fr": "dauphin",
+				"ru": "дельфин"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/dolphin.jpg",
+				}
+			],
+		},
+		{
+			"name": "dragonfly",
+			"phrase": {
+				"en": "dragonfly",
+				"fr": "libellule",
+				"ru": "стрекоза"
+			},
+			"tags": [
+				"animal",
+                "insect"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/dragonfly.jpg",
+				}
+			],
+		},
+		{
+			"name": "duck",
+			"phrase": {
+				"en": "duck",
+				"fr": "canard",
+				"ru": "утка"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/duck.jpg",
+				}
+			],
+		},
+		{
+			"name": "eagle",
+			"phrase": {
+				"en": "eagle",
+				"fr": "aigle",
+				"ru": "орел"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/eagle.jpg",
+				}
+			],
+		},
+		{
+			"name": "fallow_deer",
+			"phrase": {
+				"en": "fallow deer",
+				"fr": "daim",
+				"ru": "лань"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/fallow_deer.jpg",
+				}
+			],
+		},
+		{
+			"name": "ferret",
+			"phrase": {
+				"en": "ferret",
+				"fr": "furet",
+				"ru": "хорек"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/ferret.jpg",
+				}
+			],
+		},
+		{
+			"name": "fox",
+			"phrase": {
+				"en": "fox",
+				"fr": "renard",
+				"ru": "лиса"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/fox.jpg",
+				}
+			],
+		},
+		{
+			"name": "gecko",
+			"phrase": {
+				"en": "gecko",
+				"fr": "gecko",
+				"ru": "геккон"
+			},
+			"tags": [
+				"animal",
+                "reptile"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/gecko.jpg",
+				}
+			],
+		},
+		{
+			"name": "hare",
+			"phrase": {
+				"en": "hare",
+				"fr": "lièvre",
+				"ru": "заяц"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/hare.jpg",
+				}
+			],
+		},
+		{
+			"name": "hedgehog",
+			"phrase": {
+				"en": "hedgehog",
+				"fr": "hérisson",
+				"ru": "еж"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/hedgehog.jpg",
+				}
+			],
+		},
+		{
+			"name": "heron",
+			"phrase": {
+				"en": "heron",
+				"fr": "héron",
+				"ru": "цапля"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/heron.jpg",
+				}
+			],
+		},
+		{
+			"name": "hooded_crow",
+			"phrase": {
+				"en": "crow",
+				"fr": "corbeau",
+				"ru": "ворона"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/hooded_crow.jpg",
+				}
+			],
+		},
+		{
+			"name": "jay",
+			"phrase": {
+				"en": "jay",
+				"fr": "geai",
+				"ru": "	сойка"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/jay.jpg",
+				}
+			],
+		},
+		{
+			"name": "jellyfish",
+			"phrase": {
+				"en": "jellyfish",
+				"fr": "méduse",
+				"ru": "медуза"
+			},
+			"tags": [
+				"animal",
+                "cnidarian"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/jellyfish.jpg",
+				}
+			],
+		},
+		{
+			"name": "ladybird",
+			"phrase": {
+				"en": "ladybird",
+				"fr": "coccinelle",
+				"ru": "божья коровка"
+			},
+			"tags": [
+				"animal",
+                "insect"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/ladybird.jpg",
+				}
+			],
+		},
+		{
+			"name": "leopard",
+			"phrase": {
+				"en": "leopard",
+				"fr": "léopard",
+				"ru": "леопард"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/leopard.jpg",
+				}
+			],
+		},
+		{
+			"name": "lynx",
+			"phrase": {
+				"en": "lynx",
+				"fr": "lynx",
+				"ru": "рысь"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/lynx.jpg",
+				}
+			],
+		},
+		{
+			"name": "magpie",
+			"phrase": {
+				"en": "magpie",
+				"fr": "pie",
+				"ru": "сорока"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/magpie.jpg",
+				}
+			],
+		},
+		{
+			"name": "moose",
+			"phrase": {
+				"en": "moose",
+				"fr": "élan",
+				"ru": "лось"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/moose.jpg",
+				}
+			],
+		},
+		{
+			"name": "mosquito",
+			"phrase": {
+				"en": "mosquito",
+				"fr": "moustique",
+				"ru": "комар"
+			},
+			"tags": [
+				"animal",
+                "insect"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/mosquito.jpg",
+				}
+			],
+		},
+		{
+			"name": "mouse",
+			"phrase": {
+				"en": "mouse",
+				"fr": "souris",
+				"ru": "мышь"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/mouse.jpg",
+				}
+			],
+		},
+		{
+			"name": "octopus",
+			"phrase": {
+				"en": "octopus",
+				"fr": "poulpe",
+				"ru": "осьминог"
+			},
+			"tags": [
+				"animal",
+                "mollusc"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/octopus.jpg",
+				}
+			],
+		},
+		{
+			"name": "orca",
+			"phrase": {
+				"en": "killer whale",
+				"fr": "orque",
+				"ru": "косатка"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/orca.jpg",
+				}
+			],
+		},
+		{
+			"name": "otter",
+			"phrase": {
+				"en": "otter",
+				"fr": "loutre",
+				"ru": "выдра"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/otter.jpg",
+				}
+			],
+		},
+		{
+			"name": "parrot",
+			"phrase": {
+				"en": "parrot",
+				"fr": "perroquet",
+				"ru": "попугай"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/parrot.jpg",
+				}
+			],
+		},
+		{
+			"name": "pelican",
+			"phrase": {
+				"en": "pelican",
+				"fr": "pélican",
+				"ru": "пеликан"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/pelican.jpg",
+				}
+			],
+		},
+		{
+			"name": "platypus",
+			"phrase": {
+				"en": "platypus",
+				"fr": "ornithorinque",
+				"ru": "утконос"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/platypus.jpg",
+				}
+			],
+		},
+		{
+			"name": "polar_bear",
+			"phrase": {
+				"en": "polar bear",
+				"fr": "ours blanc",
+				"ru": "белый медведь"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/polar_bear.jpg",
+				}
+			],
+		},
+		{
+			"name": "python",
+			"phrase": {
+				"en": "python",
+				"fr": "python",
+				"ru": "питон"
+			},
+			"tags": [
+				"animal",
+                "reptile"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/python.jpg",
+				}
+			],
+		},
+		{
+			"name": "rabbit",
+			"phrase": {
+				"en": "rabbit",
+				"fr": "lapin",
+				"ru": "кролик"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/rabbit.jpg",
+				}
+			],
+		},
+		{
+			"name": "red_deer",
+			"phrase": {
+				"en": "red deer",
+				"fr": "cerf",
+				"ru": "благородный олень"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/red_deer.jpg",
+				}
+			],
+		},
+		{
+			"name": "reindeer",
+			"phrase": {
+				"en": "reindeer",
+				"fr": "renne",
+				"ru": "северный олень"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/reindeer.jpg",
+				}
+			],
+		},
+		{
+			"name": "roe_deer",
+			"phrase": {
+				"en": "roe deer",
+				"fr": "chevreuil",
+				"ru": "косуля"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/roe_deer.jpg",
+				}
+			],
+		},
+		{
+			"name": "salmon",
+			"phrase": {
+				"en": "salmon",
+				"fr": "saumon",
+				"ru": "сёмга"
+			},
+			"tags": [
+				"animal",
+                "fish"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/salmon.jpg",
+				}
+			],
+		},
+		{
+			"name": "shark",
+			"phrase": {
+				"en": "shark",
+				"fr": "requin",
+				"ru": "акула"
+			},
+			"tags": [
+				"animal",
+                "fish"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/shark.jpg",
+				}
+			],
+		},
+		{
+			"name": "slug",
+			"phrase": {
+				"en": "slug",
+				"fr": "limace",
+				"ru": "слизняк"
+			},
+			"tags": [
+				"animal",
+                "mollusc"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/slug.jpg",
+				}
+			],
+		},
+		{
+			"name": "snail",
+			"phrase": {
+				"en": "snail",
+				"fr": "escargot",
+				"ru": "улитка"
+			},
+			"tags": [
+				"animal",
+                "mollusc"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/snail.jpg",
+				}
+			],
+		},
+		{
+			"name": "sparrow",
+			"phrase": {
+				"en": "sparrow",
+				"fr": "moineau",
+				"ru": "воробей"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/sparrow.jpg",
+				}
+			],
+		},
+		{
+			"name": "squirrel",
+			"phrase": {
+				"en": "squirrel",
+				"fr": "écureuil",
+				"ru": "белка"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/squirrel.jpg",
+				}
+			],
+		},
+		{
+			"name": "starling",
+			"phrase": {
+				"en": "starling",
+				"fr": "étourneau",
+				"ru": "скворец"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/starling.jpg",
+				}
+			],
+		},
+		{
+			"name": "stork",
+			"phrase": {
+				"en": "stork",
+				"fr": "cigogne",
+				"ru": "аист"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/stork.jpg",
+				}
+			],
+		},
+		{
+			"name": "swallow",
+			"phrase": {
+				"en": "swallow",
+				"fr": "hirondelle",
+				"ru": "ласточка"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/swallow.jpg",
+				}
+			],
+		},
+		{
+			"name": "swan",
+			"phrase": {
+				"en": "swan",
+				"fr": "cygne",
+				"ru": "лебедь"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/swan.jpg",
+				}
+			],
+		},
+		{
+			"name": "swift",
+			"phrase": {
+				"en": "swift",
+				"fr": "martinet",
+				"ru": "стриж"
+			},
+			"tags": [
+				"animal",
+                "bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/swift.jpg",
+				}
+			],
+		},
+		{
+			"name": "tortoise",
+			"phrase": {
+				"en": "tortoise",
+				"fr": "tortue",
+				"ru": "черепаха"
+			},
+			"tags": [
+				"animal",
+                "reptile"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/tortoise.jpg",
+				}
+			],
+		},
+		{
+			"name": "turtle",
+			"phrase": {
+				"en": "turtle",
+				"fr": "tortue",
+				"ru": "черепаха"
+			},
+			"tags": [
+				"animal",
+                "reptile"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/turtle.jpg",
+				}
+			],
+		},
+		{
+			"name": "wagtail",
+			"phrase": {
+				"en": "wagtail",
+				"fr": "bergeronnette",
+				"ru": "трясогузка"
+			},
+			"tags": [
+				"animal",
+				"bird"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/wagtail.jpg",
+				}
+			],
+		},
+		{
+			"name": "wasp",
+			"phrase": {
+				"en": "wasp",
+				"fr": "guèpe",
+				"ru": "оса"
+			},
+			"tags": [
+				"animal",
+				"insect"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/wasp.jpg",
+				}
+			],
+		},
+		{
+			"name": "weasel",
+			"phrase": {
+				"en": "weasel",
+				"fr": "belette",
+				"ru": "ласка"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/weasel.jpg",
+				}
+			],
+		},
+		{
+			"name": "whale",
+			"phrase": {
+				"en": "whale",
+				"fr": "baleine",
+				"ru": "кит"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/whale.jpg",
+				}
+			],
+		},
+		{
+			"name": "wolf",
+			"phrase": {
+				"en": "wolf",
+				"fr": "loup",
+				"ru": "волк"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/wolf.jpg",
+				}
+			],
+		},
+		{
+			"name": "wolverine",
+			"phrase": {
+				"en": "wolverine",
+				"fr": "glouton",
+				"ru": "росомаха"
+			},
+			"tags": [
+				"animal",
+                "mammal"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/animal/image/wolverine.jpg",
+				}
+			],
+		},
+	]
+}
