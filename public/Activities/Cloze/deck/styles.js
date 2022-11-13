@@ -179,7 +179,7 @@ export const StyledInput = styled.input.attrs(props => {
   position: absolute;
   top: 0;
   left: 0;
-  height: 1.2em;
+  // height: 1.2em;
   color: ${colors.normal};
 
   width: 100%;

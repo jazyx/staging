@@ -1,6 +1,6 @@
 {
 	"set": {
-		"tag": "body",
+		"tag": "parts",
 		"name": {
 			"en": "Parts of the Body",
 			"fr": "Les parties du corps",
@@ -22,8 +22,7 @@
 				"ru": "голова"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -41,8 +40,7 @@
 				"ru": "лицо"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -60,8 +58,7 @@
 				"ru": "волосы"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -79,8 +76,7 @@
 				"ru": "глаз"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -98,8 +94,7 @@
 				"ru": "ухо"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -117,8 +112,7 @@
 				"ru": "нос"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -136,8 +130,7 @@
 				"ru": "рот"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -155,8 +148,7 @@
 				"ru": "губы"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -174,8 +166,7 @@
 				"ru": "зубы"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -193,8 +184,7 @@
 				"ru": "щека"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -212,8 +202,7 @@
 				"ru": "подбородок"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -231,8 +220,7 @@
 				"ru": "шея"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -250,8 +238,7 @@
 				"ru": "плечо"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -268,8 +255,7 @@
 				"fr": "le bras"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -287,8 +273,7 @@
 				"ru": "локоть"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -306,8 +291,7 @@
 				"ru": "запястье"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -325,8 +309,7 @@
 				"ru": "кисть"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -344,8 +327,7 @@
 				"ru": "пальцы"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -363,8 +345,7 @@
 				"ru": "большой палец"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -382,8 +363,7 @@
 				"ru": "ногти"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -401,8 +381,7 @@
 				"ru": "ладонь"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -420,8 +399,7 @@
 				"ru": "грудь"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -439,8 +417,7 @@
 				"ru": "живот"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -458,8 +435,7 @@
 				"ru": "талия"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -477,8 +453,7 @@
 				"ru": "спина"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -496,8 +471,7 @@
 				"ru": "попа"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -514,8 +488,7 @@
 				"fr": "les jambes"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -533,8 +506,7 @@
 				"ru": "колени"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -552,8 +524,7 @@
 				"ru": "стопы"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -571,8 +542,7 @@
 				"ru": "пятки"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -590,8 +560,7 @@
 				"ru": "пальцы ног"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{
@@ -609,8 +578,7 @@
 				"ru": "кожа"
 			},
 			"tags": [
-				"body",
-				"basic"
+				"parts"
 			],
 			"image": [
 				{

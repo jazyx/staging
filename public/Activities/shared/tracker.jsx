@@ -123,12 +123,13 @@ export default class Tracker{
     } else {
       tags = tags.map( tag => ({ tags: tag } ) )
       // [ "tag", ...] => [ { tags: "tag" }, ...]
-      select  = { $or: tags }
+      select  = { $and: tags }
     }
 
     // TODO: Allow tags to be an object selecter
 
     let items = collection.find(select).fetch()
+    // console.log("items.length:", items.length);
 
     // console.log( "items:", items
     //            , "db." + collection._name + ".find("

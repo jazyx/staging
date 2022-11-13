@@ -1,6 +1,6 @@
 {
 	"set": {
-		"tag": "body",
+		"tag": "detailed",
 		"name": {
 			"en": "The Human Body",
 			"fr": "Le corps human",
@@ -22,7 +22,6 @@
 				"ru": "бровь"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -41,7 +40,6 @@
 				"ru": "ресница"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -60,7 +58,6 @@
 				"ru": "лоб"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -79,7 +76,6 @@
 				"ru": "висок"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -98,7 +94,6 @@
 				"ru": "ноздри"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -117,7 +112,6 @@
 				"ru": "морщины"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -136,7 +130,6 @@
 				"ru": "десны"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -155,7 +148,6 @@
 				"ru": "лысый"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -174,7 +166,6 @@
 				"ru": "борода"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -193,7 +184,6 @@
 				"ru": "усы"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -212,7 +202,6 @@
 				"ru": "бакенбарды"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -231,7 +220,6 @@
 				"ru": "ямочка"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -250,7 +238,6 @@
 				"ru": "слеза"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -269,7 +256,6 @@
 				"ru": "затылок"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -288,7 +274,6 @@
 				"ru": "подмышка"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -307,7 +292,6 @@
 				"ru": "отпечаток пальца"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -326,7 +310,6 @@
 				"ru": "кулак"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -345,7 +328,6 @@
 				"ru": "костяшки"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -364,7 +346,6 @@
 				"ru": "указательный палец"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -383,7 +364,6 @@
 				"ru": "мизинец"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -402,7 +382,6 @@
 				"ru": "средний палец"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -421,7 +400,6 @@
 				"ru": "безымянный палец"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -440,7 +418,6 @@
 				"ru": "пупок"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -459,7 +436,6 @@
 				"ru": "бедро"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -478,7 +454,6 @@
 				"ru": "икра"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -497,7 +472,6 @@
 				"ru": "лодыжка"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -516,7 +490,6 @@
 				"ru": "подошва стопы"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -535,7 +508,6 @@
 				"ru": "большой палец"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -554,7 +526,6 @@
 				"ru": "маленький пальчик"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -573,7 +544,6 @@
 				"ru": "ногти на ногах"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -592,7 +562,6 @@
 				"ru": "скелет"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -611,7 +580,6 @@
 				"ru": "череп"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -630,7 +598,6 @@
 				"ru": "кости"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -649,7 +616,6 @@
 				"ru": "мускул"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -668,7 +634,6 @@
 				"ru": "жир"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -687,7 +652,6 @@
 				"ru": "кровь"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -706,7 +670,6 @@
 				"ru": "шрам"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
@@ -725,7 +688,6 @@
 				"ru": "мурашки по коже"
 			},
 			"tags": [
-				"body",
 				"detailed"
 			],
 			"image": [
