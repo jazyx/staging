@@ -686,6 +686,24 @@
 			"_id": "Zo2EaMMpBZQp6XFBa"
 		},
 		{
+			"name": "cross_country_skis",
+			"phrase": {
+				"en": "cross country skis",
+				"fr": "skis de fond",
+				"ru": "беговые лыжи"
+			},
+			"tags": [
+				"transport"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/transport/image/cross_country_skis.jpg",
+					"size": 94531
+				}
+			],
+			"_id": "6mG4be28GFKxABMQh"
+		},
+		{
 			"name": "speedboat",
 			"phrase": {
 				"en": "speedboat",

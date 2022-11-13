@@ -1,0 +1,624 @@
+{
+	"set": {
+		"tag": "body",
+		"name": {
+			"en": "Parts of the Body",
+			"fr": "Les parties du corps",
+			"ru": "Части тела"
+		},
+		"icon": {
+			"src": "/Assets/Vocabulary/body/basic/icon.jpg"
+		},
+		"parent": "/Vocabulary/body",
+		"path": "/Vocabulary/body/basic",
+		"_id": "o6iqSgWeiizk48Wmh"
+	},
+	"phrases": [
+		{
+			"name": "head",
+			"phrase": {
+				"en": "head",
+				"fr": "la tête",
+				"ru": "голова"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/head.jpg",
+					"size": 85374
+				}
+			],
+			"_id": "3KPEoCSKLzkuAqBXF"
+		},
+		{
+			"name": "face",
+			"phrase": {
+				"en": "face",
+				"fr": "le visage",
+				"ru": "лицо"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/face.jpg",
+					"size": 55274
+				}
+			],
+			"_id": "fGK9SQzxQMFY7Sdzi"
+		},
+		{
+			"name": "hair",
+			"phrase": {
+				"en": "hair",
+				"fr": "les cheveux",
+				"ru": "волосы"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/hair.jpg",
+					"size": 73130
+				}
+			],
+			"_id": "u8ghd8na6s5nQ7KKc"
+		},
+		{
+			"name": "eye",
+			"phrase": {
+				"en": "eye",
+				"fr": "un oeil",
+				"ru": "глаз"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/eye.jpg",
+					"size": 91032
+				}
+			],
+			"_id": "hSyda7q9JPa5akDNm"
+		},
+		{
+			"name": "ear",
+			"phrase": {
+				"en": "ear",
+				"fr": "une oreille",
+				"ru": "ухо"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/ear.jpg",
+					"size": 103205
+				}
+			],
+			"_id": "yNkpYH9PT8k58vbT6"
+		},
+		{
+			"name": "nose",
+			"phrase": {
+				"en": "nose",
+				"fr": "le nez",
+				"ru": "нос"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/nose.jpg",
+					"size": 73235
+				}
+			],
+			"_id": "77tcG9dMivwkikyiz"
+		},
+		{
+			"name": "mouth",
+			"phrase": {
+				"en": "mouth",
+				"fr": "la bouche",
+				"ru": "рот"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/mouth.jpg",
+					"size": 92326
+				}
+			],
+			"_id": "db5Deti6KcHjnmsrv"
+		},
+		{
+			"name": "lips",
+			"phrase": {
+				"en": "lips",
+				"fr": "les lèvres",
+				"ru": "губы"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/lips.jpg",
+					"size": 78274
+				}
+			],
+			"_id": "mBbRBLER3Y5RgiFGE"
+		},
+		{
+			"name": "teeth",
+			"phrase": {
+				"en": "teeth",
+				"fr": "les dents",
+				"ru": "зубы"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/teeth.jpg",
+					"size": 53167
+				}
+			],
+			"_id": "KnWiddxxoXnwks6WS"
+		},
+		{
+			"name": "cheek",
+			"phrase": {
+				"en": "cheek",
+				"fr": "la joue",
+				"ru": "щека"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/cheek.jpg",
+					"size": 152433
+				}
+			],
+			"_id": "h5Eh5kuj9WqruuXJm"
+		},
+		{
+			"name": "chin",
+			"phrase": {
+				"en": "chin",
+				"fr": "le menton",
+				"ru": "подбородок"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/chin.jpg",
+					"size": 86716
+				}
+			],
+			"_id": "rm89LKwtFWL7dmi2M"
+		},
+		{
+			"name": "neck",
+			"phrase": {
+				"en": "neck",
+				"fr": "le cou",
+				"ru": "шея"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/neck.jpg",
+					"size": 102450
+				}
+			],
+			"_id": "Gfwbo4TRM2FFqKKmj"
+		},
+		{
+			"name": "shoulder",
+			"phrase": {
+				"en": "shoulder",
+				"fr": "une épaule",
+				"ru": "плечо"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/shoulder.jpg",
+					"size": 58524
+				}
+			],
+			"_id": "u7KbigHdGyBXrZ9ZT"
+		},
+		{
+			"name": "arm",
+			"phrase": {
+				"en": "arm",
+				"fr": "le bras"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/arm.jpg",
+					"size": 37295
+				}
+			],
+			"_id": "jTkeZetjjP9833DAX"
+		},
+		{
+			"name": "elbows",
+			"phrase": {
+				"en": "elbows",
+				"fr": "les coudes",
+				"ru": "локоть"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/elbows.jpg",
+					"size": 65846
+				}
+			],
+			"_id": "3Euv5Y4LJRiZpzY4P"
+		},
+		{
+			"name": "wrist",
+			"phrase": {
+				"en": "wrist",
+				"fr": "le poignée",
+				"ru": "запястье"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/wrist.jpg",
+					"size": 76459
+				}
+			],
+			"_id": "Yuxzn5DNvv8nwviC4"
+		},
+		{
+			"name": "hand",
+			"phrase": {
+				"en": "hand",
+				"fr": "la main",
+				"ru": "кисть"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/hand.jpg",
+					"size": 52059
+				}
+			],
+			"_id": "zpYNtWWqg8HqDTcD5"
+		},
+		{
+			"name": "fingers",
+			"phrase": {
+				"en": "fingers",
+				"fr": "les doigts",
+				"ru": "пальцы"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/fingers.jpg",
+					"size": 91688
+				}
+			],
+			"_id": "Jn4m4DNpcLAZNjaTk"
+		},
+		{
+			"name": "thumb",
+			"phrase": {
+				"en": "thumb",
+				"fr": "le pouce",
+				"ru": "большой палец"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/thumb.jpg",
+					"size": 48954
+				}
+			],
+			"_id": "G7fbTmg7R5DjWZhd7"
+		},
+		{
+			"name": "fingernails",
+			"phrase": {
+				"en": "fingernails",
+				"fr": "les ongles",
+				"ru": "ногти"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/fingernails.jpg",
+					"size": 99136
+				}
+			],
+			"_id": "8wbGFwktNhxpF2gb5"
+		},
+		{
+			"name": "palm",
+			"phrase": {
+				"en": "palm",
+				"fr": "la paume",
+				"ru": "ладонь"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/palm.jpg",
+					"size": 99749
+				}
+			],
+			"_id": "xwc63wWPyJjFBhQAE"
+		},
+		{
+			"name": "chest",
+			"phrase": {
+				"en": "chest",
+				"fr": "le poitrine",
+				"ru": "грудь"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/chest.jpg",
+					"size": 63779
+				}
+			],
+			"_id": "YtnDqytmQ9HKWyp85"
+		},
+		{
+			"name": "stomach",
+			"phrase": {
+				"en": "stomach",
+				"fr": "un estomac",
+				"ru": "живот"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/stomach.jpg",
+					"size": 101411
+				}
+			],
+			"_id": "tRii859fkPJR4eyCv"
+		},
+		{
+			"name": "waist",
+			"phrase": {
+				"en": "waist",
+				"fr": "la taille",
+				"ru": "талия"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/waist.jpg",
+					"size": 103649
+				}
+			],
+			"_id": "bNinJ57Q2uvzTJkx5"
+		},
+		{
+			"name": "back",
+			"phrase": {
+				"en": "back",
+				"fr": "le dos",
+				"ru": "спина"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/back.jpg",
+					"size": 90640
+				}
+			],
+			"_id": "nbYA43ZmCnc76BSyM"
+		},
+		{
+			"name": "bottom",
+			"phrase": {
+				"en": "bottom",
+				"fr": "les fesses",
+				"ru": "попа"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/bottom.jpg",
+					"size": 104439
+				}
+			],
+			"_id": "XYrB4sLoWH4h95YmP"
+		},
+		{
+			"name": "legs",
+			"phrase": {
+				"en": "legs",
+				"fr": "les jambes"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/legs.jpg",
+					"size": 102593
+				}
+			],
+			"_id": "uwDgpdD8KvkTLPH23"
+		},
+		{
+			"name": "knees",
+			"phrase": {
+				"en": "knees",
+				"fr": "les genoux",
+				"ru": "колени"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/knees.jpg",
+					"size": 92595
+				}
+			],
+			"_id": "un6jWRESeWoES2iEb"
+		},
+		{
+			"name": "feet",
+			"phrase": {
+				"en": "feet",
+				"fr": "les pieds",
+				"ru": "стопы"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/feet.jpg",
+					"size": 59943
+				}
+			],
+			"_id": "yGQ8ZS65TeismEsGi"
+		},
+		{
+			"name": "heels",
+			"phrase": {
+				"en": "heels",
+				"fr": "les talons",
+				"ru": "пятки"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/heels.jpg",
+					"size": 90984
+				}
+			],
+			"_id": "C35FY83CxjiKxSrR6"
+		},
+		{
+			"name": "toes",
+			"phrase": {
+				"en": "toes",
+				"fr": "les orteils",
+				"ru": "пальцы ног"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/toes.jpg",
+					"size": 124661
+				}
+			],
+			"_id": "AKvMJaPNafA5XDvYw"
+		},
+		{
+			"name": "skin",
+			"phrase": {
+				"en": "skin",
+				"fr": "la peau",
+				"ru": "кожа"
+			},
+			"tags": [
+				"body",
+				"basic"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/basic/image/skin.jpg",
+					"size": 99056
+				}
+			],
+			"_id": "MzMKiivHBy4E2Lpdq"
+		}
+	]
+}

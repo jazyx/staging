@@ -1,0 +1,740 @@
+{
+	"set": {
+		"tag": "body",
+		"name": {
+			"en": "The Human Body",
+			"fr": "Le corps human",
+			"ru": "Человеческое тело"
+		},
+		"icon": {
+			"src": "/Assets/Vocabulary/body/detailed/icon.jpg"
+		},
+		"parent": "/Vocabulary/body",
+		"path": "/Vocabulary/body/detailed",
+		"_id": "L9ZBNwButkYJJH8rB"
+	},
+	"phrases": [
+		{
+			"name": "eyebrow",
+			"phrase": {
+				"en": "eyebrow",
+				"fr": "le sourcil",
+				"ru": "бровь"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/eyebrow.jpg",
+					"size": 91726
+				}
+			],
+			"_id": "R9YexwyfYsutbcea8"
+		},
+		{
+			"name": "eyelash",
+			"phrase": {
+				"en": "eyelash",
+				"fr": "le cil",
+				"ru": "ресница"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/eyelash.jpg",
+					"size": 88430
+				}
+			],
+			"_id": "SGr9nwNCt4A3XcgXu"
+		},
+		{
+			"name": "forehead",
+			"phrase": {
+				"en": "forehead",
+				"fr": "le front",
+				"ru": "лоб"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/forehead.jpg",
+					"size": 91290
+				}
+			],
+			"_id": "vLNhLwswMfqPgvg7h"
+		},
+		{
+			"name": "temple",
+			"phrase": {
+				"en": "temple",
+				"fr": "la tempe",
+				"ru": "висок"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/temple.jpg",
+					"size": 202810
+				}
+			],
+			"_id": "uZ4yoidFjCcmBzXAR"
+		},
+		{
+			"name": "nostrils",
+			"phrase": {
+				"en": "nostrils",
+				"fr": "les narines",
+				"ru": "ноздри"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/nostrils.jpg",
+					"size": 101307
+				}
+			],
+			"_id": "2dvwwe3yJZeoaK7zY"
+		},
+		{
+			"name": "wrinkles",
+			"phrase": {
+				"en": "wrinkles",
+				"fr": "une ride",
+				"ru": "морщины"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/wrinkles.jpg",
+					"size": 106061
+				}
+			],
+			"_id": "TZjKcsZeZwCLFnZMm"
+		},
+		{
+			"name": "gums",
+			"phrase": {
+				"en": "gums",
+				"fr": "des gencives",
+				"ru": "десны"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/gums.jpg",
+					"size": 89901
+				}
+			],
+			"_id": "SwXvKyJca8GuMckzp"
+		},
+		{
+			"name": "bald",
+			"phrase": {
+				"en": "bald",
+				"fr": "chauve",
+				"ru": "лысый"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/bald.jpg",
+					"size": 103145
+				}
+			],
+			"_id": "3zHLdixPLy84d8ZtE"
+		},
+		{
+			"name": "beard",
+			"phrase": {
+				"en": "beard",
+				"fr": "une barbe",
+				"ru": "борода"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/beard.jpg",
+					"size": 90999
+				}
+			],
+			"_id": "pLEQpESwDrMxcJzNz"
+		},
+		{
+			"name": "moustache",
+			"phrase": {
+				"en": "moustache",
+				"fr": "une moustache",
+				"ru": "усы"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/moustache.jpg",
+					"size": 104642
+				}
+			],
+			"_id": "Te33S4S9CQJFC8AsG"
+		},
+		{
+			"name": "sideburns",
+			"phrase": {
+				"en": "sideburns",
+				"fr": "une patte",
+				"ru": "бакенбарды"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/sideburns.jpg",
+					"size": 101701
+				}
+			],
+			"_id": "7tkHsXY4NvidDJRJh"
+		},
+		{
+			"name": "dimple",
+			"phrase": {
+				"en": "dimple",
+				"fr": "une fossette",
+				"ru": "ямочка"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/dimple.jpg",
+					"size": 104339
+				}
+			],
+			"_id": "QH6kqtf5P7ZsSfftv"
+		},
+		{
+			"name": "tear",
+			"phrase": {
+				"en": "tear",
+				"fr": "une larme",
+				"ru": "слеза"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/tear.jpg",
+					"size": 101032
+				}
+			],
+			"_id": "6HhH9x9defGK8ZQyp"
+		},
+		{
+			"name": "nape",
+			"phrase": {
+				"en": "nape",
+				"fr": "la nuque",
+				"ru": "затылок"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/nape.jpg",
+					"size": 61967
+				}
+			],
+			"_id": "meT5AFgbztaCghRsd"
+		},
+		{
+			"name": "armpit",
+			"phrase": {
+				"en": "armpit",
+				"fr": "une aiselle",
+				"ru": "подмышка"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/armpit.jpg",
+					"size": 77008
+				}
+			],
+			"_id": "PpXXLRpnPyzpEdotB"
+		},
+		{
+			"name": "fingerprint",
+			"phrase": {
+				"en": "fingerprint",
+				"fr": "une empreinte digital",
+				"ru": "отпечаток пальца"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/fingerprint.jpg",
+					"size": 92847
+				}
+			],
+			"_id": "wwTB2xJQKQ2D6NytT"
+		},
+		{
+			"name": "fist",
+			"phrase": {
+				"en": "fist",
+				"fr": "le poing",
+				"ru": "кулак"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/fist.jpg",
+					"size": 102331
+				}
+			],
+			"_id": "6bLJbLWXDgXhrtYsY"
+		},
+		{
+			"name": "knuckle",
+			"phrase": {
+				"en": "knuckles",
+				"fr": "les phalanges",
+				"ru": "костяшки"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/knuckle.jpg",
+					"size": 44080
+				}
+			],
+			"_id": "xTNQ4JDpRY8f8M3iZ"
+		},
+		{
+			"name": "index_finger",
+			"phrase": {
+				"en": "index finger",
+				"fr": "un index",
+				"ru": "указательный палец"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/index_finger.jpg",
+					"size": 42580
+				}
+			],
+			"_id": "JX8qZQmz7THznyyYA"
+		},
+		{
+			"name": "little_finger",
+			"phrase": {
+				"en": "little finger",
+				"fr": "un petit doigt",
+				"ru": "мизинец"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/little_finger.jpg",
+					"size": 77181
+				}
+			],
+			"_id": "NrnE5cZKAwPqkoWkc"
+		},
+		{
+			"name": "middle_finger",
+			"phrase": {
+				"en": "middle finger",
+				"fr": "le majeur",
+				"ru": "средний палец"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/middle_finger.jpg",
+					"size": 450432
+				}
+			],
+			"_id": "d9xmYfpYWbukEuFCt"
+		},
+		{
+			"name": "ring_finger",
+			"phrase": {
+				"en": "ring finger",
+				"fr": "un annulaire",
+				"ru": "безымянный палец"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/ring_finger.jpg",
+					"size": 66050
+				}
+			],
+			"_id": "TM4dvtLMMmghD2YGm"
+		},
+		{
+			"name": "bellybutton",
+			"phrase": {
+				"en": "bellybutton",
+				"fr": "le nombril",
+				"ru": "пупок"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/bellybutton.jpg",
+					"size": 62264
+				}
+			],
+			"_id": "5GPM8sAhtAqudWsCm"
+		},
+		{
+			"name": "thigh",
+			"phrase": {
+				"en": "thigh",
+				"fr": "une cuisse",
+				"ru": "бедро"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/thigh.jpg",
+					"size": 74258
+				}
+			],
+			"_id": "BkXN8jwJgziRwWaLh"
+		},
+		{
+			"name": "calf",
+			"phrase": {
+				"en": "calf",
+				"fr": "le mollet",
+				"ru": "икра"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/calf.jpg",
+					"size": 106463
+				}
+			],
+			"_id": "Nharsp5m3XyEBXDmj"
+		},
+		{
+			"name": "ankle",
+			"phrase": {
+				"en": "ankle",
+				"fr": "la cheville",
+				"ru": "лодыжка"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/ankle.jpg",
+					"size": 93056
+				}
+			],
+			"_id": "qboiyCPHHBQSca3EM"
+		},
+		{
+			"name": "sole",
+			"phrase": {
+				"en": "sole",
+				"fr": "la plante du pied",
+				"ru": "подошва стопы"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/sole.jpg",
+					"size": 39200
+				}
+			],
+			"_id": "XNn4MxZdyeDdfgDkx"
+		},
+		{
+			"name": "big_toe",
+			"phrase": {
+				"en": "big_toe",
+				"fr": "le gros orteil",
+				"ru": "большой палец"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/big_toe.jpg",
+					"size": 104266
+				}
+			],
+			"_id": "mZP8MMq2Q6F3dzuhr"
+		},
+		{
+			"name": "little_toe",
+			"phrase": {
+				"en": "little toe",
+				"fr": "le petit orteil",
+				"ru": "маленький пальчик"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/little_toe.jpg",
+					"size": 61991
+				}
+			],
+			"_id": "dktpNQtZnfuHc6XFJ"
+		},
+		{
+			"name": "toenails",
+			"phrase": {
+				"en": "toenails",
+				"fr": "les ongles du pied",
+				"ru": "ногти на ногах"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/toenails.jpg",
+					"size": 103073
+				}
+			],
+			"_id": "CFAxH7mGiBKmAX8Yz"
+		},
+		{
+			"name": "skeleton",
+			"phrase": {
+				"en": "skeleton",
+				"fr": "la squelette",
+				"ru": "скелет"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/skeleton.jpg",
+					"size": 47813
+				}
+			],
+			"_id": "MT35QuX2nRvSK9sEz"
+		},
+		{
+			"name": "skull",
+			"phrase": {
+				"en": "skull",
+				"fr": "le crane",
+				"ru": "череп"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/skull.jpg",
+					"size": 65351
+				}
+			],
+			"_id": "NKSwccLw4eL33Cj2x"
+		},
+		{
+			"name": "bones",
+			"phrase": {
+				"en": "bones",
+				"fr": "les os",
+				"ru": "кости"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/bones.jpg",
+					"size": 56228
+				}
+			],
+			"_id": "bcEeP6cavadnZaiBT"
+		},
+		{
+			"name": "muscle",
+			"phrase": {
+				"en": "muscle",
+				"fr": "muscle",
+				"ru": "мускул"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/muscle.jpg",
+					"size": 70014
+				}
+			],
+			"_id": "BNcfHYukrPP9vMis3"
+		},
+		{
+			"name": "fat",
+			"phrase": {
+				"en": "fat",
+				"fr": "du gras",
+				"ru": "жир"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/fat.jpg",
+					"size": 86189
+				}
+			],
+			"_id": "txaxLsmKYzeKpHkXB"
+		},
+		{
+			"name": "blood",
+			"phrase": {
+				"en": "blood",
+				"fr": "du sang",
+				"ru": "кровь"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/blood.jpg",
+					"size": 73802
+				}
+			],
+			"_id": "74gioazD5SFPyELog"
+		},
+		{
+			"name": "scar",
+			"phrase": {
+				"en": "scar",
+				"fr": "une cicatrice",
+				"ru": "шрам"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/scar.jpg",
+					"size": 104388
+				}
+			],
+			"_id": "cpnfBGakTTS73Tdrb"
+		},
+		{
+			"name": "goosebumps",
+			"phrase": {
+				"en": "goosebumps",
+				"fr": "de la chair de poule",
+				"ru": "мурашки по коже"
+			},
+			"tags": [
+				"body",
+				"detailed"
+			],
+			"image": [
+				{
+					"src": "/Assets/Vocabulary/body/detailed/image/goosebumps.jpg",
+					"size": 100543
+				}
+			],
+			"_id": "JgMYtWcvGcXHyoeZ3"
+		}
+	]
+}
